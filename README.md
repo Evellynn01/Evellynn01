@@ -2,7 +2,7 @@
 hello there<br>
 
 ![](https://github-readme-stats.shion.dev/api?username=Evellynn01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Evellynn01&theme=tokyonight&hide_border=false)<br/>
+
 
 
 ---
